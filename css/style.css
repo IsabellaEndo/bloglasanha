@@ -1,0 +1,11 @@
+nav{
+    background-color: palevioletred;
+    display: flex;
+    height: 100px;
+}
+
+section{
+    background-color: pink;
+    height: calc(100vh - 156px);
+}
+
